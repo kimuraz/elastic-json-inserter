@@ -14,3 +14,5 @@ $ pip install -r requirements.txt
 ```
 $ python inserter.py
 ```
+
+> The docker compose file uses partially the code from [here](https://github.com/maxyermayank/docker-compose-elasticsearch-kibana/blob/master/docker-compose.yml)
