@@ -1,2 +1,4 @@
 file: './test.json'
-elastic_index: 'test'
+elastic:
+  index: 'test'
+  hosts: ['localhost:9200']
